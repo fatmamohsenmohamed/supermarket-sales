@@ -22,7 +22,7 @@ Power BI: Used for data visualization and dashboard creation to showcase key fin
 Excel: For initial data cleaning, transformation, and preliminary analysis.
 SQL (Optional): Used for querying the dataset for deeper insights and aggregations.
 Analysis and Insights
-![Dashboard Preview](C:\Users\mohse\OneDrive)
+
 
 
 
