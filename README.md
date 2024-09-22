@@ -22,6 +22,9 @@ Power BI: Used for data visualization and dashboard creation to showcase key fin
 Excel: For initial data cleaning, transformation, and preliminary analysis.
 SQL (Optional): Used for querying the dataset for deeper insights and aggregations.
 Analysis and Insights
+(![Alt text](![supermarket](https://github.com/user-attachments/assets/fc15717e-8e68-4e16-83ce-b04f0b2c9501))
+
+
 Product Line Performance: Certain product lines consistently outperform others in terms of sales volume and revenue. Visualizing sales across product categories helps identify these trends.
 Branch-Level Analysis: The data is broken down by branch locations worldwide, allowing for comparison of performance across regions.
 Customer Payment Preferences: Insights into which payment methods are preferred in different regions, enabling better service adjustments based on customer behavior.
