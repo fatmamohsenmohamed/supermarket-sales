@@ -22,10 +22,6 @@ Power BI: Used for data visualization and dashboard creation to showcase key fin
 Excel: For initial data cleaning, transformation, and preliminary analysis.
 SQL (Optional): Used for querying the dataset for deeper insights and aggregations.
 Analysis and Insights
-
-
-
-
 Product Line Performance: Certain product lines consistently outperform others in terms of sales volume and revenue. Visualizing sales across product categories helps identify these trends.
 Branch-Level Analysis: The data is broken down by branch locations worldwide, allowing for comparison of performance across regions.
 Customer Payment Preferences: Insights into which payment methods are preferred in different regions, enabling better service adjustments based on customer behavior.
@@ -37,3 +33,7 @@ Sales by Product Line: A breakdown of revenue by product category.
 Branch Performance: A map visualization to show sales by global branch locations.
 Payment Method Preferences: A chart showing the distribution of payment methods across regions.
 Sales vs. Price Correlation: A scatter plot showing the relationship between product prices and quantities sold.
+Explore the Dashboard:
+![image](![image](https://github.com/user-attachments/assets/695409b1-9d40-478a-88d0-ac613b5537fe)
+
+
